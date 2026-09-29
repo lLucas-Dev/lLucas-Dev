@@ -64,20 +64,6 @@
 
 ---
 
-## 📊 Estatísticas do GitHub
-
-<p align="center">
-  <img
-    height="170"
-    src="https://github-readme-stats.vercel.app/api?username=lLucas-Dev&show_icons=true&theme=github_dark&hide_border=true"
-    alt="GitHub Stats"
-  />
-</p>
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lLucas-Dev&show_icons=true&theme=github_dark)
-
----
-
 ## 📫 Contato
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/lLucas-Dev)
