@@ -74,13 +74,7 @@
   />
 </p>
 
-<p align="center">
-  <img
-    height="170"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=lLucas-Dev&layout=compact&theme=github_dark&hide_border=true"
-    alt="Linguagens mais usadas"
-  />
-</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lLucas-Dev&show_icons=true&theme=github_dark)
 
 ---
 
