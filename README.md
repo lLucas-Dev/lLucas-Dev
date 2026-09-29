@@ -4,14 +4,20 @@
 💻 Desenvolvedor em formação com interesse em **Web, Mobile e Back-end**  
 🚀 Sempre buscando evoluir através de projetos práticos, estudos e novas tecnologias.
 
+---
+
 ## 👨‍💻 Sobre mim
 
 - 🎓 Cursando **Análise e Desenvolvimento de Sistemas**
-- 💡 Interesse em desenvolvimento **Web, Mobile e Back-end**
+- 💻 Interesse em desenvolvimento **Web, Mobile e Back-end**
+- 🗄️ Conhecimento em **PostgreSQL** e familiaridade com **Firebase**
 - 🤖 Explorando aplicações com **Inteligência Artificial**
-- 🧪 Estudando boas práticas como **TDD, BDD, CI/CD e versionamento com Git**
-- 📱 Desenvolvendo projetos acadêmicos e pessoais
-- 🚀 Buscando evoluir constantemente como desenvolvedor
+- 🧪 Estudando práticas como **TDD, BDD e CI/CD**
+- 🔀 Utilizando **Git e GitHub** para versionamento e colaboração
+- 🚀 Desenvolvendo projetos acadêmicos e pessoais para aprimorar minhas habilidades
+- 📚 Sempre buscando aprender novas tecnologias e boas práticas de desenvolvimento
+
+---
 
 ## 🛠️ Tecnologias e Linguagens
 
@@ -31,6 +37,18 @@
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
+### Banco de Dados
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+
+### Ferramentas e práticas
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+---
+
 ## 📚 Atualmente estudando
 
 - Desenvolvimento de aplicações Web
@@ -44,22 +62,34 @@
 - Inteligência Artificial aplicada a sistemas
 - Boas práticas de desenvolvimento
 
+---
+
 ## 📊 Estatísticas do GitHub
 
-![Lucas GitHub stats](https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&theme=github_dark&hide_border=true)
+<p align="center">
+  <img
+    height="170"
+    src="https://github-readme-stats.vercel.app/api?username=lLucas-Dev&show_icons=true&theme=github_dark&hide_border=true"
+    alt="GitHub Stats"
+  />
+</p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO&layout=compact&theme=github_dark&hide_border=true)
-
-## 🔥 Sequência de contribuições
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=SEU-USUARIO&theme=github-dark-blue&hide_border=true)
-
-## 📫 Contato
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-lins--/)
-
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/lLucas-Dev)
+<p align="center">
+  <img
+    height="170"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=lLucas-Dev&layout=compact&theme=github_dark&hide_border=true"
+    alt="Linguagens mais usadas"
+  />
+</p>
 
 ---
 
-### 🚀 Sempre aprendendo, construindo e evoluindo.
+## 📫 Contato
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/lLucas-Dev)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-lins--/)
+
+---
+
+### 🚀 Sempre aprendendo, construindo e evoluindo como desenvolvedor.
